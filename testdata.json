@@ -1,0 +1,54 @@
+[
+    {
+       "name": "nameCard",
+       "first_name": "James",
+       "last_name": "Hiddleston",
+       "current_title": "Machine Learning Engineer",
+       "location": "San Fransisco Bay Area",
+       "phone_number": "0009998877",
+       "personal_email": "james@gmail.com",
+       "linkedIn": "https://www.linkedin.com/feed/",
+       "experience": [
+            {
+                "title": "senior Machine Learning Engineer at",
+                "icon": "icons1Univ.svg"
+            },
+            {
+                "title": "junior Machine Learning Engineer at ",
+                "icon": "icons2Univ.svg"
+            }
+       ],
+       "education": [
+            {
+                "title":  "standford university, M.S., Computer",
+                "icon":"icons3.svg"
+            }
+       ]
+    },
+    {
+        "name": "nameCard",
+        "first_name": "Emily",
+        "last_name": "Dickenson",
+        "current_title": "Manager",
+        "location": "San Fransisco Bay Area",
+        "phone_number": "0009998877",
+        "personal_email": "emily@gmail.com",
+        "linkedIn": "https://www.linkedin.com/feed/",
+        "experience": [
+             {
+                 "title": "senior Machine Learning Engineer at",
+                 "icon": "icons1Univ.svg"
+             }
+        ],
+        "education": [
+             {
+                 "title":  "standford university, M.S., Computer",
+                 "icon":"icons3.svg"
+             },
+             {
+                "title":  "oxford university, M.S., Computer",
+                "icon":"icons4.svg"
+            }
+        ]
+     }
+]
